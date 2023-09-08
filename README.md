@@ -9,4 +9,5 @@
 
 ## Features
 1. CRUD simple post article.
-2. Prevent ```N+1 Problem``` in all post using eager loading, lazy eager loading with clockwork library (```https://github.com/itsgoingd/clockwork```) for view performance.
+2. Seeder for initial data.
+3. Prevent ```N+1 Problem``` in all post using eager loading, lazy eager loading with clockwork library (```https://github.com/itsgoingd/clockwork```) for view performance.
